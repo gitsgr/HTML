@@ -1,0 +1,35 @@
+/*
+p{
+        color: aqua;
+        font-weight: bold;
+        font-size: 50px;
+        font-family: sans-serif;
+    }*/
+p,h1,h4{
+    color: red;
+}
+
+div p{
+    
+    color: blue;
+}
+
+#first-para{
+    
+    color: coral;
+}
+
+.firstPara{
+    
+    color: aqua;
+    
+}
+
+div{
+    border: 4px Solid grey;
+    background-color: aqua;
+    margin: auto;
+    
+    
+   }
+   
